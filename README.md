@@ -1,7 +1,7 @@
 ## <h1> Olá, Eu sou Jéferson Santos </h1>
 
-- � 👨‍🎓💻 Estudando HTML JS CSS 
-- � 👨‍💻🤓 Buscando meu primeiro Emprego como dev front-end.
+- � 👨‍🎓💻 <h3> Estudando HTML JS CSS </h3> 
+- � 👨‍💻🤓 <h4> Buscando meu primeiro Emprego como dev front-end. </h4>
 
 
  <div>
