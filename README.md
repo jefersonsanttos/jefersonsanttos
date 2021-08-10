@@ -8,7 +8,7 @@
  <div>
   <img src="https://komarev.com/ghpvc/?username=jefersonsanttos&color=green" alt="jefersonsanttos" />
  </div>
- ##
+ 
 <div>
   <a href="linkedin.com/in/jefersonsantosjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonsanttos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
