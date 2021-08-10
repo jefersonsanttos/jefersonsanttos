@@ -1,8 +1,8 @@
 ## <h1> Olá, Eu sou Jéferson Santos </h1>
 
-- � 👨‍🎓💻 <h3> Estudando HTML JS CSS </h3> 
-- � 👨‍💻🤓 <h4> Buscando meu primeiro Emprego como dev front-end. </h4>
-
+<h4>- � 👨‍🎓💻  Estudando HTML JS CSS </h3> 
+- � 👨‍💻🤓  Buscando meu primeiro Emprego como dev front-end.
+</h4>
 
  <div>
   <img src="https://komarev.com/ghpvc/?username=jefersonsanttos&color=green" alt="jefersonsanttos" />
